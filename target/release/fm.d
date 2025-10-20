@@ -1,1 +1,0 @@
-/Users/malijia/Desktop/work/self/rust-project/fm/target/release/fm: /Users/malijia/Desktop/work/self/rust-project/fm/src/args.rs /Users/malijia/Desktop/work/self/rust-project/fm/src/main.rs /Users/malijia/Desktop/work/self/rust-project/fm/src/utils/file_help.rs /Users/malijia/Desktop/work/self/rust-project/fm/src/utils/mod.rs
