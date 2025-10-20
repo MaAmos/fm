@@ -1,0 +1,14 @@
+/Users/malijia/Desktop/work/self/rust-project/fm/target/release/deps/libserde-eb84fc6534428587.rmeta: /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/malijia/Desktop/work/self/rust-project/fm/target/release/build/serde-8da05fe1a2bac2e5/out/private.rs
+
+/Users/malijia/Desktop/work/self/rust-project/fm/target/release/deps/libserde-eb84fc6534428587.rlib: /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/malijia/Desktop/work/self/rust-project/fm/target/release/build/serde-8da05fe1a2bac2e5/out/private.rs
+
+/Users/malijia/Desktop/work/self/rust-project/fm/target/release/deps/serde-eb84fc6534428587.d: /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/malijia/Desktop/work/self/rust-project/fm/target/release/build/serde-8da05fe1a2bac2e5/out/private.rs
+
+/Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/malijia/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/malijia/Desktop/work/self/rust-project/fm/target/release/build/serde-8da05fe1a2bac2e5/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/malijia/Desktop/work/self/rust-project/fm/target/release/build/serde-8da05fe1a2bac2e5/out
