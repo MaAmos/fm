@@ -53,7 +53,7 @@ pub struct Args {
     /// 输出格式配置 （可选）： csv,   默认为 csv
     /// 示例： fm -r ".rs" -o json
     ///    fm -r ".rs" -o csv
-    #[arg(short='o', long="output", value_enum, num_args = 0.., default_missing_value = "csv", value_name = "FORMAT")]
+    #[arg(short='o', long="output", value_enum, num_args = 0.., default_missing_value = "csv",default_value = "csv",  value_name = "FORMAT")]
     pub output: Option<OutputFormat>,
 
     /// 工作目录 （可选）
@@ -84,4 +84,5 @@ pub enum StatsField {
     Time,
     Size,
     Type,
+
 }
